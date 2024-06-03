@@ -1,31 +1,52 @@
 {
-  "transactions":[
+  "transactions": [
     {
-      "id":1,
+      "id": 1,
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
       "price": 1400,
-      "createdAt": "2024-05-29T19:17:12.747Z"
-
+      "createdAt": "2024-04-29T19:17:12.747Z"
     },
     {
-      "id":2,
+      "id": 2,
       "description": "Hamburger",
       "type": "outcome",
       "category": "Alimentação",
       "price": 120,
-      "createdAt": "2024-15-29T19:00:12.747Z"
-
+      "createdAt": "2024-01-29T19:00:12.747Z"
     },
     {
-      "id":3,
+      "id": 3,
       "description": "Pizzar",
       "type": "outcome",
       "category": "Alimentação",
       "price": 80,
-      "createdAt": "2024-15-29T12:00:12.747Z"
-
+      "createdAt": "2024-10-29T12:00:12.747Z"
+    },
+    {
+      "description": "Faculdade",
+      "price": 238,
+      "type": "outcome",
+      "category": "Educação",
+      "createdAt": "2024-06-03T16:12:30.295Z",
+      "id": 4
+    },
+    {
+      "description": "Venda de camisas GG",
+      "price": 48,
+      "type": "income",
+      "category": "Venda",
+      "createdAt": "2024-06-03T17:05:01.531Z",
+      "id": 5
+    },
+    {
+      "description": "Venda de camisa P",
+      "price": 48,
+      "type": "income",
+      "category": "venda",
+      "createdAt": "2024-06-03T17:24:06.753Z",
+      "id": 6
     }
   ]
 }
