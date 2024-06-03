@@ -47,6 +47,38 @@
       "category": "venda",
       "createdAt": "2024-06-03T17:24:06.753Z",
       "id": 6
+    },
+    {
+      "description": "werqr",
+      "price": 35165,
+      "type": "income",
+      "category": "qwer",
+      "createdAt": "2024-06-03T17:51:27.684Z",
+      "id": 7
+    },
+    {
+      "description": "qwer",
+      "price": 3513,
+      "type": "income",
+      "category": "wqerqr",
+      "createdAt": "2024-06-03T17:51:33.471Z",
+      "id": 8
+    },
+    {
+      "description": "qwer",
+      "price": 35165,
+      "type": "income",
+      "category": "qwer",
+      "createdAt": "2024-06-03T17:51:45.248Z",
+      "id": 9
+    },
+    {
+      "description": "qwerqer",
+      "price": 351651,
+      "type": "income",
+      "category": "135",
+      "createdAt": "2024-06-03T17:52:02.517Z",
+      "id": 10
     }
   ]
 }
